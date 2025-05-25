@@ -12,7 +12,7 @@
 
 ## 📚 Overview
 
-This is a series of hands-on Python exercises covering core **Object-Oriented Programming (OOP)** principles. Each Python file in this folder represents a **focused OOP practice** using small-letter-start class names — helpful for building strong intuition and practicing flexibility in naming conventions.
+This is a series of hands-on Python exercises covering core **Object-Oriented Programming (OOP)** principles.
 
 
 ---
